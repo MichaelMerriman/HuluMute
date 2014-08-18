@@ -1,0 +1,29 @@
+To disable this log, change the 'log=true' value in hulumute.config to 'log=false'
+Mon Aug 18 17:24:07 CDT 2014 hulumute process begins
+Mon Aug 18 17:24:07 CDT 2014 Pulled value true for variable desktopApp from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 Screen resolution is 2048x1152
+Mon Aug 18 17:24:07 CDT 2014 Pulled value true for variable checkUpdate from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 Latest version determined to be 0.90 from http://hulumute.wordpress.com/downloads/
+Mon Aug 18 17:24:07 CDT 2014 Program version 0.9  is the latest version 0.9
+Mon Aug 18 17:24:07 CDT 2014 INFO: No tasks are running which match the specified criteria.
+Mon Aug 18 17:24:07 CDT 2014 Pulled value false for variable debug from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 Pulled value nircmdc.exe mutesysvolume 1 for variable muteCommand from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 Pulled value nircmdc.exe mutesysvolume 0 for variable unmuteCommand from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 Pulled value true for variable blockVisuals from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 Pulled value 150 for variable delay from hulumute.conf
+Mon Aug 18 17:24:07 CDT 2014 System tray supported
+Mon Aug 18 17:24:08 CDT 2014 Mute process is active.
+Mon Aug 18 17:25:22 CDT 2014 Program window opened from system tray
+Mon Aug 18 17:25:22 CDT 2014 Program window closed from system tray
+Mon Aug 18 17:25:24 CDT 2014 Program window opened from system tray
+Mon Aug 18 17:25:27 CDT 2014 Mute process has stopped
+Mon Aug 18 17:25:28 CDT 2014 Mute process is active.
+Mon Aug 18 17:25:29 CDT 2014 Mute process has stopped
+Mon Aug 18 17:25:30 CDT 2014 Mute process is active.
+Mon Aug 18 17:25:31 CDT 2014 Variable desktopApp changed to false by GUI
+Mon Aug 18 17:25:33 CDT 2014 Variable desktopApp changed to true by GUI
+Mon Aug 18 17:25:33 CDT 2014 Variable desktopApp changed to false by GUI
+Mon Aug 18 17:25:38 CDT 2014 Creating/updating config file.
+Mon Aug 18 17:25:45 CDT 2014 Latest version determined to be 0.90 from http://hulumute.wordpress.com/downloads/
+Mon Aug 18 17:25:45 CDT 2014 Program version 0.9  is the latest version 0.9
+Mon Aug 18 17:31:37 CDT 2014 Exiting....

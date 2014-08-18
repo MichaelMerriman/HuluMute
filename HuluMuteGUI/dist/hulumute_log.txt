@@ -1,0 +1,17 @@
+To disable this log, change the 'log=true' value in hulumute.config to 'log=false'
+Fri Mar 08 21:14:32 CST 2013 hulumute process begins
+Fri Mar 08 21:14:32 CST 2013 Pulled value true for variable desktopApp from hulumute.conf
+Fri Mar 08 21:14:32 CST 2013 Screen resolution is 1280x720
+Fri Mar 08 21:14:32 CST 2013 Pulled value true for variable checkUpdate from hulumute.conf
+Fri Mar 08 21:14:32 CST 2013 Latest version determined to be 0.90 from http://hulumute.wordpress.com/downloads/
+Fri Mar 08 21:14:32 CST 2013 Program version 0.9  is the latest version 0.9
+Fri Mar 08 21:14:33 CST 2013 INFO: No tasks are running which match the specified criteria.
+Fri Mar 08 21:14:33 CST 2013 Pulled value false for variable debug from hulumute.conf
+Fri Mar 08 21:14:33 CST 2013 Pulled value nircmdc.exe mutesysvolume 1 for variable muteCommand from hulumute.conf
+Fri Mar 08 21:14:33 CST 2013 Pulled value nircmdc.exe mutesysvolume 0 for variable unmuteCommand from hulumute.conf
+Fri Mar 08 21:14:33 CST 2013 Pulled value true for variable blockVisuals from hulumute.conf
+Fri Mar 08 21:14:33 CST 2013 Pulled value 150 for variable delay from hulumute.conf
+Fri Mar 08 21:14:33 CST 2013 System tray supported
+Fri Mar 08 21:14:33 CST 2013 Mute process is active.
+Fri Mar 08 21:14:36 CST 2013 Program window opened from system tray
+Fri Mar 08 21:14:38 CST 2013 Program window closed from system tray

@@ -1,0 +1,23 @@
+To disable this log, change the 'log=true' value in hulumute.config to 'log=false'
+Tue Mar 05 22:23:47 CST 2013 hulumute process begins
+Tue Mar 05 22:23:47 CST 2013 Pulled value false for variable desktopApp from hulumute.conf
+Tue Mar 05 22:23:47 CST 2013 Screen resolution is 1280x800
+Tue Mar 05 22:23:47 CST 2013 Pulled value true for variable checkUpdate from hulumute.conf
+Tue Mar 05 22:23:48 CST 2013 Latest version determined to be 0.81 from http://hulumute.wordpress.com/downloads/
+Tue Mar 05 22:23:48 CST 2013 Program version 0.9  is the latest version 0.81
+Tue Mar 05 22:23:48 CST 2013 
+Tue Mar 05 22:23:48 CST 2013 Image Name                     PID Session Name        Session#    Mem Usage
+Tue Mar 05 22:23:48 CST 2013 ========================= ======== ================ =========== ============
+Tue Mar 05 22:23:48 CST 2013 hulumute.exe                  2712 Console                    1     17,668 K
+Tue Mar 05 22:23:48 CST 2013 Pulled value false for variable debug from hulumute.conf
+Tue Mar 05 22:23:48 CST 2013 Pulled value nircmdc.exe mutesysvolume 1 for variable muteCommand from hulumute.conf
+Tue Mar 05 22:23:48 CST 2013 Pulled value nircmdc.exe mutesysvolume 0 for variable unmuteCommand from hulumute.conf
+Tue Mar 05 22:23:48 CST 2013 Pulled value true for variable blockVisuals from hulumute.conf
+Tue Mar 05 22:23:48 CST 2013 Pulled value 150 for variable delay from hulumute.conf
+Tue Mar 05 22:23:48 CST 2013 System tray supported
+Tue Mar 05 22:23:48 CST 2013 Mute process is active.
+Tue Mar 05 22:23:48 CST 2013 Error occured during mute process: Cannot run program "nircmdc.exe": CreateProcess error=2, The system cannot find the file specified
+Tue Mar 05 22:23:58 CST 2013 Program window opened from system tray
+Tue Mar 05 22:24:00 CST 2013 Variable delay changed to 150 by GUI
+Tue Mar 05 22:24:00 CST 2013 Variable muteCommand changed to nircmdc.exe mutesysvolume 1 by GUI
+Tue Mar 05 22:24:00 CST 2013 Variable unmuteCommand changed to nircmdc.exe mutesysvolume 0 by GUI

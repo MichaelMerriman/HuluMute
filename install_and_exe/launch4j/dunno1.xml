@@ -1,0 +1,26 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Mickey\Dropbox\Computer\NetBeansProjects\HuluMuteGUI\install and exe\HuluMuteGUI.jar</jar>
+  <outfile>C:\Users\Mickey\Dropbox\Computer\NetBeansProjects\HuluMuteGUI\install and exe\hulumute.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>true</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Mickey\Dropbox\Computer\NetBeansProjects\HuluMuteGUI\install and exe\launch4j\hulumute.ico</icon>
+  <singleInstance>
+    <mutexName>hulumute77f333d3fc66b4ef9e7c28df7f45328d</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
